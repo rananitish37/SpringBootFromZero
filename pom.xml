@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.codex</groupId>
-	<artifactId>SpringBootDay01</artifactId>
+	<artifactId>SpringBoot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringBootDay01</name>
 	<description>Learning day 1</description>
