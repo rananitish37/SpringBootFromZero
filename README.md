@@ -11,11 +11,11 @@ From basics → advanced enterprise apps
 
 ## 📚 Learning Path (Daily Branches)
 
-| Day | Topic                         | Status |
-|-----|-------------------------------|--------|
-| [Day 01](https://github.com/rananitish37/SpringBootFromZero/tree/day01) | Spring Boot Setup & First App | ✅ Complete |
-| [Day 02](https://github.com/rananitish37/SpringBootFromZero/tree/day02) | Bean Lifecycle                | ✅ Complete |
-| [Day 03](https://github.com/rananitish37/SpringBootFromZero/tree/main) | Practice Question             | 🔄 In Progress |
+| Day | Topic                         | Status      |
+|-----|-------------------------------|-------------|
+| [Day 01](https://github.com/rananitish37/SpringBootFromZero/tree/day01) | Spring Boot Setup & First App | ✅ Complete  |
+| [Day 02](https://github.com/rananitish37/SpringBootFromZero/tree/day02) | Bean Lifecycle                | ✅ Complete  |
+| [Day 03](https://github.com/rananitish37/SpringBootFromZero/tree/main) | Practice Question             | ✅ Completed |
 
 ## 🛠️ Tech Stack
 
